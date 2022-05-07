@@ -1,0 +1,7 @@
+C:\Users\conor\Source\Repos\ETL-Repo\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.exe.config
+C:\Users\conor\Source\Repos\ETL-Repo\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.exe
+C:\Users\conor\Source\Repos\ETL-Repo\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.pdb
+C:\Users\conor\Source\Repos\ETL-Repo\FarmSystem.Test1\obj\Debug\FarmSystem.Test.csproj.AssemblyReference.cache
+C:\Users\conor\Source\Repos\ETL-Repo\FarmSystem.Test1\obj\Debug\FarmSystem.Test.csproj.CoreCompileInputs.cache
+C:\Users\conor\Source\Repos\ETL-Repo\FarmSystem.Test1\obj\Debug\FarmSystem.Test1.exe
+C:\Users\conor\Source\Repos\ETL-Repo\FarmSystem.Test1\obj\Debug\FarmSystem.Test1.pdb
